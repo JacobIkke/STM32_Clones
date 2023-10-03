@@ -2,7 +2,9 @@
 Collection of datasheets, SDK, example code and other info about STM32 clones.
 
 
-Some benchmarks of clones and other MCU:
+Some benchmarks of clones and other MCU
+
+Find first 10000 prime numbers benchmark:
 
 Pico Python 125Mhz = 36s (Thonny)
 Pico Python 256Mhz = 18s (Thonny)
