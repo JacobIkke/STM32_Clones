@@ -1,1 +1,6 @@
 AT32F403 example codes
+
+AT32F403_support_header
+This is a template (for future projects) example for the Weact dev board with AT32F403ACGU7.
+The AT32 IDE starts all projects with example code for their own development boards, using at32f403a_407_board.c and at32f403a_407_board.h files to initialize the boards. However, the LED pins are different.
+So, I created a similar file that initializes UART with printf support, sets up Systick for 1ms, and includes a Delay_ms function.
