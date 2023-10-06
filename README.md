@@ -20,7 +20,7 @@ Collection of datasheets, SDK, example code and other info about STM32 clones.
 - CH582f RISCV 60MHz code in RAM = 3433ms (Mounriver IDE, RISCV GCC)
 <br/>
 
-- STM32F103 72Mhz code in flash = 3s (Arduino software, I didn't run this myself!)
+- STM32F103C6T6 72Mhz code in flash = 3s (Arduino software, I didn't run this myself!)
 - STM32H750 480Mhz code in flash = 186 ms (stm32cube GCC, both L1 caches enabled)
 - AIR32F103CBT6 72MHz Code in flash = 2455ms (VScode GCC) 
 - AIR32F103CBT6 216MHz Code in flash = 818ms (VScode GCC) Default clock
