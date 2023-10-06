@@ -28,7 +28,7 @@ Collection of datasheets, SDK, example code and other info about STM32 clones.
 - AT32F403ACGU7 240Mhz Code in flash = 944ms (AT32 IDE GCC)
 <br/>
 
-### Floating point benchmark
+### Floating point benchmark Leibniz formula 500000 iterations
 - AT32F403ACGU7 240Mhz   no FPU   = 742ms
 - AT32F403ACGU7 240Mhz   Hard FPU = 112ms
 - AIR32F103CBT6 240Mhz   no FPU   = 690ms
