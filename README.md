@@ -1,6 +1,6 @@
 (Work in progress!)
 # STM32 clones
-Collection of datasheets, SDK, example code and other info about STM32 clones.
+Collection of datasheets, example codes, overclocking, benchmark scores and other info about STM32 clones.
 
 
 ## Some benchmarks of clones and other MCU's
