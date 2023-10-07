@@ -6,12 +6,12 @@ Collection of datasheets, SDK, example code and other info about STM32 clones.
 ## Some benchmarks of clones and other MCU's
 
 ### Find the first 10000 prime numbers benchmark:
-- STM32F103C6T6 72Mhz code in flash = 3s (Arduino software, I didn't run this myself!)
-- STM32H750 480Mhz code in flash = 186 ms (stm32cube GCC, both L1 caches enabled)
 - AIR32F103CBT6 72MHz Code in flash = 2455ms (VScode GCC) 
 - AIR32F103CBT6 216MHz Code in flash = 818ms (VScode GCC) Default clock
 - AIR32F103CBT6 256MHz Code in flash = 690ms (VScode GCC) Max Clock
 - AT32F403ACGU7 240Mhz Code in flash = 944ms (AT32 IDE GCC)
+- STM32F103C6T6 72Mhz code in flash = 3s (Arduino software, I didn't run this myself!)
+- STM32H750 480Mhz code in flash = 186 ms (stm32cube GCC, both L1 caches enabled)
 <br/>
 
 - Pico Python 125Mhz = 36s (Thonny)
