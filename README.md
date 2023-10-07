@@ -33,7 +33,7 @@ Collection of datasheets, SDK, example code and other info about STM32 clones.
 - AT32F403ACGU7 240Mhz   no FPU   = 742ms
 - AT32F403ACGU7 240Mhz   Hard FPU = 112ms
 - AIR32F103CBT6 240Mhz   no FPU   = 690ms
-
+<br/>
 
 ## Overclocking
 Most clones run a bit faster than the STM32 version. They're made with more modern production processes. 
