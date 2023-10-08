@@ -35,7 +35,7 @@ Collection of datasheets, example codes, overclocking, benchmark scores and othe
 - AIR32F103CBT6 240Mhz   no FPU   = 690ms
 <br/>
 
-### DSP FPU sqrt benchmark - Calculate sqrt 100000 times
+### AT32F403A DSP FPU sqrt benchmark - Calculate sqrt 100000 times
 ![sqrt_bench](https://github.com/JacobIkke/STM32_Clones/blob/main/AT32F403A_Examples/images/AT32F403A_sqrt_dsp_fpu_bench_240M.png)
 
 ## Overclocking
