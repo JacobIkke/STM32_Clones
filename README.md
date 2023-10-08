@@ -35,6 +35,9 @@ Collection of datasheets, example codes, overclocking, benchmark scores and othe
 - AIR32F103CBT6 240Mhz   no FPU   = 690ms
 <br/>
 
+### DSP FPU sqrt benchmark - Calculate sqrt 100000 times
+![sqrt_bench](https://github.com/JacobIkke/STM32_Clones/blob/main/AT32F403A_Examples/images/AT32F403A_sqrt_dsp_fpu_bench_240M.png)
+
 ## Overclocking
 Most clones run a bit faster than the STM32 version. They're made with more modern production processes. 
 For instance, the STM32F103 series was designed back in 2007 and is made on a 90nm process, while clones like the AIR32 are produced on a 40nm process by TSMC, giving it more potential for higher clock speeds.
