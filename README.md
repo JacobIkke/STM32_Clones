@@ -37,7 +37,7 @@ Collection of datasheets, example codes, overclocking, benchmark scores and othe
 
 ### AT32F403A DSP FPU sqrt benchmark - Calculate sqrt 100000 times
 arm_sqrt_f32() and arm_sqrt_q15 are functions from the DSP library that utilize the hardware FPU, and they can be found in arm_math.h. <br/>
-sqrt() = software function and uses int so the FPU is not used, and can be found in math.h lib.<br/>
+sqrt() = software function and use only integers so the FPU is not used, and can be found in math.h lib.<br/>
 ![sqrt_bench](https://github.com/JacobIkke/STM32_Clones/blob/main/AT32F403A_Examples/images/AT32F403A_sqrt_dsp_fpu_bench_240M.png)
 
 ## Overclocking
