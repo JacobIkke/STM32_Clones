@@ -47,5 +47,7 @@ For instance, the STM32F103 series was designed back in 2007 and is made on a 90
 * AIR32F103CBT6 M3 max overclock is 256MHz - limitation: PLL multiplier cannot go higher *1
 * AT32F403ACGU7 M4 max overclock is 256MHz - limitation: PLL multiplier cannot go higher *1
 
-*1 My board uses an 8MHz crystal, but you can potentially achieve higher speeds with different value crystals.
+*1 The board use an 8MHz crystal, but you can potentially get a higher clock with a different value crystal.
 
+## Programming
+The AIR32F103 comes with DAP-link firmware pre-installed. If you order two or more of them, you can use one as a programmer if you don't already have a DAP-link.
