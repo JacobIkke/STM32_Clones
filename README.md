@@ -10,6 +10,9 @@ Collection of datasheets, example codes, overclocking, benchmark scores and othe
 - AIR32F103CBT6 216MHz Code in flash = 818ms (VScode GCC) Default clock
 - AIR32F103CBT6 256MHz Code in flash = 690ms (VScode GCC) Max Clock
 - AT32F403ACGU7 240Mhz Code in flash = 944ms (AT32 IDE GCC)
+- CKS32F103C8T6 72MHz Code in flash = 3834ms (STM32Cube IDE, GCC)
+<br/>
+
 - STM32F103C6T6 72Mhz code in flash = 3s (Arduino software, I didn't run this myself!)
 - STM32H750 480Mhz code in flash = 186 ms (stm32cube GCC, both L1 caches enabled)
 <br/>
