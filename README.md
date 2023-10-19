@@ -6,11 +6,13 @@ Collection of datasheets, example codes, overclocking, benchmark scores and othe
 ## Some benchmarks of clones and other MCU's
 
 ### Find the first 10000 Prime Numbers Benchmark:
+- CKS32F103C8T6 72MHz Code in flash = 3834ms (STM32Cube IDE, GCC)
 - AIR32F103CBT6 72MHz Code in flash = 2455ms (VScode GCC) 
 - AIR32F103CBT6 216MHz Code in flash = 818ms (VScode GCC) Default clock
 - AIR32F103CBT6 256MHz Code in flash = 690ms (VScode GCC) Max Clock
-- AT32F403ACGU7 240Mhz Code in flash = 944ms (AT32 IDE GCC)
-- CKS32F103C8T6 72MHz Code in flash = 3834ms (STM32Cube IDE, GCC)
+- AT32F403ACGU7 240Mhz Code in flash = 687ms (AT32 IDE GCC)
+- AT32F403ACGU7 288Mhz Code in flash = 572ms (AT32 IDE GCC)
+
 <br/>
 
 - STM32F103C6T6 72Mhz code in flash = 3s (Arduino software, I didn't run this myself!)
@@ -48,9 +50,11 @@ Most clones run a bit faster than the STM32 version. They're made with more mode
 For instance, the STM32F103 series was designed back in 2007 and is made on a 90nm process, while clones like the AIR32 are produced on a 40nm process by TSMC, giving it more potential for higher clock speeds.
 
 * AIR32F103CBT6 M3 max overclock is 256MHz - limitation: PLL multiplier cannot go higher *1
-* AT32F403ACGU7 M4 max overclock is 256MHz - limitation: PLL multiplier cannot go higher *1
+* AT32F403ACGU7 M4 max overclock is 288MHz - Can maybe clocked higher, but need more testing. 
 
 *1 The board use an 8MHz crystal, but you can potentially get a higher clock with a different value crystal.
 
 ## Programming
 The AIR32F103 comes with DAP-link firmware pre-installed. If you order two or more of them, you can use one as a programmer if you don't already have a DAP-link.
+
+The AT32F403ACGU7 black pill dev board comes with DFU bootloader, and supports DAP-link, AT-link and J-link. 
