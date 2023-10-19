@@ -51,7 +51,7 @@ Most clones run a bit faster than the STM32 version. They're made with more mode
 For instance, the STM32F103 series was designed back in 2007 and is made on a 90nm process, while clones like the AIR32 are produced on a 40nm process by TSMC, giving it more potential for higher clock speeds.
 
 * AIR32F103CBT6 M3 max overclock is 256MHz - limitation: PLL multiplier cannot go higher *1
-* AT32F403ACGU7 M4 max overclock is 288MHz - Can maybe clocked higher, but need more testing. 
+* AT32F403ACGU7 M4 max overclock is 312MHz - Can maybe clocked higher, but need more testing. 
 
 *1 The board use an 8MHz crystal, but you can potentially get a higher clock with a different value crystal.
 
