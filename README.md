@@ -36,6 +36,7 @@ Collection of datasheets, example codes, overclocking, benchmark scores and othe
 
 ### Floating point benchmark Leibniz formula 500000 iterations
 - AT32F403ACGU7 240Mhz   no FPU   = 742ms
+- AT32F403ACGU7 288Mhz   no FPU   = 619ms Overclocked
 - AT32F403ACGU7 240Mhz   Hard FPU = 112ms
 - AIR32F103CBT6 240Mhz   no FPU   = 690ms
 <br/>
