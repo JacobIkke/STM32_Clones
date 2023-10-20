@@ -21,8 +21,8 @@ Collection of datasheets, example codes, overclocking, benchmark scores and othe
 
 - Pico Python 125Mhz = 36s (Thonny)
 - Pico Python 256Mhz = 18s (Thonny)
-- Pico C sdk 125Mhz  = 996 ms (vscode)
-- Pico C sdk 256Mhz  = 486 ms (vscode)
+- Pico C sdk 125Mhz  = 996 ms (vscode, code fit in the 16KB cache) 
+- Pico C sdk 256Mhz  = 486 ms (vscode, code fit in the 16KB cache)
 <br/>
 
 - Arduino 16Mhz = 120s (Arduino software)
