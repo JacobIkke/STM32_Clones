@@ -17,6 +17,7 @@ Collection of datasheets, example codes, overclocking, benchmark scores and othe
 
 - STM32F103C6T6 72Mhz code in flash = 3s (Arduino software, I didn't run this myself!)
 - STM32H750 480Mhz code in flash = 186 ms (stm32cube GCC, both L1 caches enabled)
+- STM32H723 550MHz code in flash = 102 ms (stm32cube GCC, both L1 caches enabled, MPU enabled, clocks optimized, etc)
 <br/>
 
 - Pico Python 125Mhz = 36s (Thonny)
