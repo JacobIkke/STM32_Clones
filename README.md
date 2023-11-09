@@ -33,6 +33,7 @@ Collection of datasheets, example codes, overclocking, benchmark scores and othe
 
 - CH582F RISCV 60MHz code in flash = 15724ms (Mounriver IDE, RISCV GCC)
 - CH582f RISCV 60MHz code in RAM = 3433ms (Mounriver IDE, RISCV GCC)
+<br/>
 
 - ESP32 DOWD 240MHz code in flash = 1486 ms (Arduino software)
 <br/>
