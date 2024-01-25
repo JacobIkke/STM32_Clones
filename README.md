@@ -31,10 +31,12 @@ Collection of datasheets, example codes, overclocking, benchmark scores and othe
 - LGT8F328p 32Mhz 59s (Arduino software)
 <br/>
 
-- CH582F RISCV 60MHz code in flash = 15724ms (Mounriver IDE, RISCV GCC)
-- CH582F RISCV 60MHz code in RAM = 3433ms (Mounriver IDE, RISCV GCC)
-- CH32V003F4P6 24MHz Code in Flash = 29448ms (Mounriver IDE, RISCV GCC, flash 0 wait-stage)
-- CH32V003F4P6 48MHz Code in Flash = 19560ms (Mounriver IDE, RISCV GCC, flash 1 wait-stage)
+- CH582F RISCV  60MHz code in flash = 15724ms (Mounriver IDE, RISC-V GCC)
+- CH582F RISCV  60MHz code in RAM   =  3433ms (Mounriver IDE, RISC-V GCC)
+- CH32V003F4P6  24MHz Code in Flash = 29448ms (Mounriver IDE, RISC-V GCC, flash 0 wait-stage)
+- CH32V003F4P6  48MHz Code in Flash = 19560ms (Mounriver IDE, RISC-V GCC, flash 1 wait-stage)
+- CH32V203F6P6 144MHz Code in Flash =  1307ms (Mounriver IDE, RISC-V GCC, flash 0 wait-stage)
+
 <br/>
 
 - ESP32 DOWD 240MHz code in flash = 1486 ms (Arduino software)
