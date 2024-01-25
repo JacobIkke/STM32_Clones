@@ -35,6 +35,7 @@ Collection of datasheets, example codes, overclocking, benchmark scores and othe
 - CH582F RISCV  60MHz code in RAM   =  3433ms (Mounriver IDE, RISC-V GCC)
 - CH32V003F4P6  24MHz Code in Flash = 29448ms (Core V4A, Mounriver IDE, RISC-V GCC, flash 0 wait-stage)
 - CH32V003F4P6  48MHz Code in Flash = 19560ms (Core V4A, Mounriver IDE, RISC-V GCC, flash 1 wait-stage)
+- CH32V203F6P6  48MHz Code in Flash =  3921ms (Core V4B, Mounriver IDE, RISC-V GCC, flash 0 wait-stage)
 - CH32V203F6P6 144MHz Code in Flash =  1307ms (Core V4B, Mounriver IDE, RISC-V GCC, flash 0 wait-stage)
 
 <br/>
