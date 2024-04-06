@@ -39,6 +39,7 @@ Collection of datasheets, example codes, overclocking, benchmark scores and othe
 - CH32V203F6P6 144MHz Code in Flash =  1307ms (Core V4B, Mounriver IDE, RISC-V GCC, flash 0 wait-stage)
 
 <br/>
+
 - ESP32-S2 240MHz code in flash   = 1047 ms (Arduino software)
 - ESP32-DOWD 240MHz code in flash = 1486 ms (Arduino software)
 - ESP32-C3 160MHz code in flash   = 1820 ms (Arduino software)
