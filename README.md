@@ -40,7 +40,7 @@ Collection of datasheets, example codes, overclocking, benchmark scores and othe
 
 <br/>
 
-- ESP32-S3 240MHz code in flash   = 1291 ms (Arduino IDE, Arduino Framework)
+- ESP32-S3 WROOM 1 240MHz flash   = 1291 ms (Arduino IDE, Arduino Framework)
 - ESP32-S2 240MHz code in flash   = 1047 ms (PlatformIO, Arduino Framework)
 - ESP32-DOWD 240MHz code in flash = 1486 ms (PlatformIO, Arduino Framework)
 - ESP32-C3 160MHz code in flash   = 1820 ms (RISC-V, PlatformIO, Arduino Framework)
