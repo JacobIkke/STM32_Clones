@@ -40,10 +40,11 @@ Collection of datasheets, example codes, overclocking, benchmark scores and othe
 
 <br/>
 
-- ESP32-S2 240MHz code in flash   = 1047 ms (Arduino software)
-- ESP32-DOWD 240MHz code in flash = 1486 ms (Arduino software)
-- ESP32-C3 160MHz code in flash   = 1820 ms (RISC-V, Arduino software)
-- ESP8266EX 160MHz code in flash  = 3409 ms (Arduino software)
+- ESP32-S3 240MHz code in flash   = 1291 ms (Arduino IDE, Arduino Framework)
+- ESP32-S2 240MHz code in flash   = 1047 ms (PlatformIO, Arduino Framework)
+- ESP32-DOWD 240MHz code in flash = 1486 ms (PlatformIO, Arduino Framework)
+- ESP32-C3 160MHz code in flash   = 1820 ms (RISC-V, PlatformIO, Arduino Framework)
+- ESP8266EX 160MHz code in flash  = 3409 ms (Arduino IDE, Arduino Framework)
 <br/>
 
 
