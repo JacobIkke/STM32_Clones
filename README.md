@@ -17,6 +17,7 @@ Collection of datasheets, example codes, overclocking, benchmark scores and othe
 
 - STM32F103C8T6 72MHz code in flash = 3s (Arduino software, I didn't run this myself!)
 - STM32G431 170MHz code in flash = 1370 ms (stm32cube GCC, Both caches enabled, Prefecth Enabled)
+- STM32H503 250MHz code in flash = 798 ms (stm32cube GCC, icache enabled)
 - STM32H750 480MHz code in flash = 186 ms (stm32cube GCC, both L1 caches enabled)
 - STM32H723 550MHz code in flash = 102 ms (stm32cube GCC, both L1 caches enabled, MPU enabled, clocks optimized, etc)
 <br/>
